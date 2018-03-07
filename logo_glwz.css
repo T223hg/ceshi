@@ -1,0 +1,9 @@
+		marquee{
+			margin:0px auto;
+		}
+		marquee p{
+			font-size:10px;
+		}
+		marquee p span{
+			color:#FF0000;
+		}

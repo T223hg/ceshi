@@ -1,0 +1,19 @@
+		#logo{
+			margin:0px auto;
+			width:1000px;
+			height:80px;
+			background-color: #FFFFFF;
+		}
+		#logo li{
+			list-style:none;
+			position:relative;
+			top:-80px;
+			padding-left: 260px;
+		}
+		#logo span{
+			padding-top:20px;
+			letter-spacing:20px;
+			font-family:"楷体";
+			font-size:30px;
+			color:#fd8cee;
+		}
